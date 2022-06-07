@@ -1,0 +1,19 @@
+.keyboard{
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+#content{
+    width: 550px;
+    height: 50px;
+
+}
+
+#btn{
+height: 80px;
+width: 50px;
+}
+.backspace{
+    width: 100px;
+    height: 80px;
+}
